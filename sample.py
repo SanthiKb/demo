@@ -1,8 +1,9 @@
 import pandas
 import boto3
+import numpy 
 
-a=1100
-b=2100
+a=9980
+b=8976
 
 x=1003
 y=2003
